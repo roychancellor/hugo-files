@@ -1,0 +1,32 @@
+baseurl = "http://nchancellor.net/"
+title = "Nathan Chancellor"
+theme = "nix"
+languageCode = "en-us"
+
+[menu]
+  [[menu.header]]
+    name = "downloads"
+    weight = 0
+    url = "/downloads"
+  [[menu.header]]
+    name = "projects"
+    weight = 1
+    url = "/projects"
+  [[menu.header]]
+    name = "resume"
+    weight = 2
+    url = "/nathan_chancellor_resume.pdf"
+
+[params]
+  GithubID = "nathanchance"
+  LinkedInID = "nathan-chancellor-218179142"
+  TelegramID = "nathanchance"
+  TwitterID = "nathanchance"
+  GoogleplusID = "+NathanChancellor"
+  InstagramID = "nchancellor"
+  Name = "Nathan Chancellor"
+  HeaderUsername = "nathan"
+  HeaderHostname = "flashbox"
+  Email = "natechancellor@gmail.com"
+  About = "Hello, my name is Nathan and I am a fifth-year university student and amateur kernel hacker. I am mostly interested in lower level architecture stuff and security. If you have any questions about my projects or just want to talk, feel free to reach out to me using any of the methods above! If you are looking for Flash Kernel, please see the downloads folder above."
+  ProfilePicture = "/profile.jpg"
