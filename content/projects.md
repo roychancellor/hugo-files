@@ -21,7 +21,7 @@ All of my kernels focus on stability/security by merging in the stable updates f
 * OnePlus 6: I recieved this device as part of [OnePlus's developer program](https://www.xda-developers.com/oneplus-6-developer-application/). I was the first to merge in linux-stable and the updates from Code Aurora Forum, build with Clang, and port over the 32-bit vDSO for arm64 from the Pixel 2 kernels (initially created on a 4.4 base).
 
 
-# Other interesting repos
+# Other interesting personal repos
 
 * [My scripts](https://github.com/nathanchance/scripts) and [dotfiles](https://github.com/nathanchance/dotfiles): The scripts I use for my workflow and personal configuration files, focusing on increasing productivity by decreasing manual intervention needed to doing repetitive tasks.
 
@@ -30,7 +30,7 @@ All of my kernels focus on stability/security by merging in the stable updates f
 * [build-tools-gcc](https://github.com/nathanchance/build-tools-gcc): A script to build a GCC cross compiler for arm/arm64.
 
 
-# Open source organizations
+# Open source organizations I belong to
 
 * [android-linux-stable](https://github.com/android-linux-stable): Several Android kernel trees with the latest stable tags from [kernel.org](https://www.kernel.org) merged into them, along with conflict resolution notes and a how-to process for other developers and information for users to understand the process. Testing includes merging into my own Flash Kernel repositories linked above and building with all of the relevant defconfigs/compilers. I report results back to the stable tree maintainers, receiving praise for my efforts on a couple occasions ([1](https://lore.kernel.org/lkml/20171117083016.GA20306@kroah.com/) and [2](https://lore.kernel.org/lkml/20180805140301.GA17056@kroah.com/)). Recently, I streamlined the maintenance of these repos into [a script](https://github.com/nathanchance/scripts/blob/master/als).
 
@@ -38,8 +38,10 @@ All of my kernels focus on stability/security by merging in the stable updates f
 
 * [Dirty Unicorns](https://github.com/DirtyUnicorns): An aftermarket Android ROM. I am responsible for helping with testing and picking in features, along with fixing issues.
 
+* [ClangBuiltLinux](https://github.com/ClangBuiltLinux): A collaborative organization between several engineers to improve building the Linux kernel with Clang.
 
-# Open source contributions
+
+# Other open source contributions
 
 * [AnyKernel2](https://github.com/osm0sis/AnyKernel2/commits/master?author=nathanchance): A kernel flashing utility for TWRP, responsible for unpacking the boot image, applying any requested ramdisk changes, repacking the files, and flashing them to the boot image partition.
 
