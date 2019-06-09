@@ -1,32 +1,28 @@
-baseurl = "https://nathanchance.me/"
-title = "Nathan Chancellor"
+baseurl = "https://roychancellor.me/"
+title = "Roy Chancellor"
 theme = "nix"
 languageCode = "en-us"
 
 [menu]
   [[menu.header]]
-    name = "downloads"
+    name = "programming projects"
     weight = 0
-    url = "/downloads"
+    url = "/programming_projects"
   [[menu.header]]
-    name = "projects"
+    name = "engineering projects"
     weight = 1
-    url = "/projects"
+    url = "/engineering_projects"
   [[menu.header]]
     name = "resume"
     weight = 2
-    url = "/nathan_chancellor_resume.pdf"
+    url = "/resume.pdf"
 
 [params]
-  GithubID = "nathanchance"
-  LinkedInID = "nathanchancellor"
-  TelegramID = "nathanchance"
-  TwitterID = "nathanchance"
-  InstagramID = "nchancellor"
-  GnuPGFingerprint = "99739260CB6CB716"
-  Name = "Nathan Chancellor"
-  HeaderUsername = "nathan"
-  HeaderHostname = "archlinux-i9"
-  Email = "natechancellor@gmail.com"
-  About = "Hello, my name is Nathan and I am a university student and amateur kernel hacker. I am mostly interested in compilers, lower level architecture stuff, and security. If you have any questions about my projects or just want to talk, feel free to reach out to me using any of the methods above! If you are looking for Flash Kernel, please see the downloads folder above."
-  ProfilePicture = "/profile.jpg"
+  GithubID = "roychancellor"
+  LinkedInID = "roychancellor"
+  Name = "Roy Chancellor"
+  HeaderUsername = "roy"
+  HeaderHostname = "macbookpro"
+  Email = "roychance600@gmail.com"
+  About = "Welcome to Roy's site. I am beginning a career as a Java developer, focusing on back-end web applications. I am currently at GCU earning a Java programming certifcate after 14 years as a mechanical engineer and 11 years as a mathematics educator. Check out the links above."
+  ProfilePicture = "/RoyHeadShotSmall.jpg"
