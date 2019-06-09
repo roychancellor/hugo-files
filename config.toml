@@ -6,15 +6,15 @@ languageCode = "en-us"
 [menu]
   [[menu.header]]
     name = "programming projects"
-    weight = 0
+    weight = 1
     url = "/programming_projects"
   [[menu.header]]
     name = "engineering projects"
-    weight = 1
+    weight = 2
     url = "/engineering_projects"
   [[menu.header]]
     name = "resume"
-    weight = 2
+    weight = 3
     url = "/resume.pdf"
 
 [params]
