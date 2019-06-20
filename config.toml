@@ -15,7 +15,7 @@ languageCode = "en-us"
   [[menu.header]]
     name = "resume"
     weight = 3
-    url = "/resume.pdf"
+    url = "/resumeroychancellor.pdf"
 
 [params]
   GithubID = "roychancellor"
@@ -24,5 +24,5 @@ languageCode = "en-us"
   HeaderUsername = "roy"
   HeaderHostname = "macbookpro"
   Email = "roychance600@gmail.com"
-  About = "Welcome! I have been programming most of my life, starting with BASIC on a Commodore PET, moving to the TRS-80, TI-99/4A, Apple II, and finally the PC. Ironically, during my mechanical engineering degree programs it was learning the C language that proved invaluable for simulating dynamic systems, acquiring data, controlling mechanical systems, and performing mathematical analysis. After 14 years working in engineering and 11 years as a math teacher, I am coming full circle to start a career as a Java developer. I am currently at GCU acquiring Java skills and will (hopefully) start work mid-September. Check out the content in the menu above for more about my past and present work."
+  About = "Welcome! I have been programming since I was 12, starting with BASIC on a Commodore PET, moving to the TRS-80, TI-99/4A, Apple II, and finally the PC. Surprisingly, it was mechanical engineering at ASU that introduced me to the C language and laid the foundation for several years of problem solving with code: numerical analysis, data acquisition from electronic devices, graphical data displays, and dynamic system simulation. After 14 years in engineering and 11 years in education, I am going after my passion for programming by acquiring skills in Java and JavaScript with the goal of developing web applications professionally. Check out the content in the menu above for more about my past and present work."
   ProfilePicture = "/RoyHeadShotSmall.jpg"
